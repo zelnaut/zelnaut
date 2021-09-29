@@ -15,6 +15,7 @@ I'm currently in the process of learning <b>Rust</b>.
 * Containerized Task Runner (docker-compose)
 * Emulator (NES)
 * K/V Store (Redis)
+* Raft K/V Store (etcd)
 * Web Server (Caddy)
 * Automation Platform (Ansible)
 * Kafka (KRaft)
