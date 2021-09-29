@@ -1,7 +1,5 @@
 👋 Hi, I’m @zelnaut
 
-I'm currently in the process of learning <b>Rust</b>.
-
 # Learning Areas
 * APIs
 * CLIs
