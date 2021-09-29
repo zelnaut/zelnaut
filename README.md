@@ -4,6 +4,7 @@ I'm currently in the process of learning Rust.
 
 Learning Areas:
 * APIs
+* CLIs
 * Serverless
 * Async
 * Raft
@@ -11,8 +12,9 @@ Learning Areas:
 
 Planned Projects:
 * Chat App
+* Containerized Task Runner (docker-compose)
 * Emulator (NES)
-* K/V Store (Redis) Implementation
-* Web Server (Caddy) Implementation
-* Automation Platform (Ansible) Implementation
-* Kafka (KRaft) Implementation
+* K/V Store (Redis)
+* Web Server (Caddy)
+* Automation Platform (Ansible)
+* Kafka (KRaft)
