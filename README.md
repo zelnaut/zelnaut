@@ -17,5 +17,4 @@ I'm currently in the process of learning <b>Rust</b>.
 * K/V Store (Redis)
 * Raft K/V Store (etcd)
 * Web Server (Caddy)
-* Automation Platform (Ansible)
 * Kafka (KRaft)
