@@ -1,8 +1,8 @@
 👋 Hi, I’m @zelnaut
 
-I'm currently in the process of learning Rust.
+I'm currently in the process of learning <b>Rust</b>.
 
-Learning Areas:
+# Learning Areas
 * APIs
 * CLIs
 * Serverless
@@ -10,7 +10,7 @@ Learning Areas:
 * Raft
 * Distributed Processing
 
-Planned Projects:
+# Planned Projects
 * Chat App
 * Containerized Task Runner (docker-compose)
 * Emulator (NES)
